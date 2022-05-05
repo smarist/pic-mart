@@ -24,3 +24,23 @@ header {
   box-shadow: 0px 2px 10px -5px rgba(21,6,5,1);
 }
 
+a {
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited { color: var(--light-blue); }
+a:hover { color: blue; }
+a:active { color: blue; }
+
+
+main.cart-page {
+  padding: 10px;
+}
+
+.cart-page > h1 {
+  text-align: center;
+}
